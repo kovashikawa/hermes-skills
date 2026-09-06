@@ -100,6 +100,12 @@ Completion: `ffprobe` confirms resolution, frame rate, duration, and expected sc
 - **Axis-title collision:** `next_to(ax, UP)` ignores separate axis-label objects. Include the label bounds or use a larger buffer and inspect the render.
 - **Dense tables:** showing every cell may require a staged comparison first. Do not claim a condensed table is the full benchmark.
 
+## Sources and Attribution
+
+- Production approach inspired by the 3Blue1Brown videos repository (https://github.com/3b1b/videos): scene-based Manim production, draft iteration, keyframe review. No code copied.
+- That repository is CC BY-NC-SA 4.0. This skill is an original written workflow, not adapted code, so ShareAlike does not attach to it. Keep it that way: describe techniques, never paste their code.
+- Runs on Manim Community Edition (MIT). Name it, do not claim it.
+
 ## Verification Checklist
 
 - [ ] Latest Markdown and result-generating code read before final render
